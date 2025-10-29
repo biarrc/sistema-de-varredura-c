@@ -20,9 +20,9 @@ O objetivo deste projeto é construir um **sistema de varredura (scanner)** capa
 # Estrutura do Projeto
 
 sistema-de-varredura-c (nome da pasta do projeto):
-- scanner.c -> Código do analisador léxico.
-- exemplo.c- -> Arquivo de teste.
-- README.md -> Documento explicativo do projeto.
+- scanner.c (Código do analisador léxico).
+- exemplo.c- (Arquivo de teste).
+- README.md (Documento explicativo do projeto).
 
 # Funcionamento
 
@@ -61,5 +61,6 @@ mesma pasta do projeto:
 
 - No Linux/MacOS:  
   ./scanner nome_do_arquivo.c-
+
 
 
